@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mudaliaranusha
-- 👀 I’m interested in Python, SQL, Ml, DL, Power BI, and Statistics.
-- 🌱 I’m currently learning about data science and creating many mock projects.
-- 💞️ I’m looking to collaborate on projects using ML/DL.
+- 👀 I’m proficient in Python, SQL, ML, Braze, Power BI, and Statistics. Experienced in Data Analysis
+- 🌱 I’m learning about data science and Deep Learning and creating mock projects.
+- 💞️ I’m looking to collaborate on projects using ML/DL. 
 - 📫 How to reach me - contact me on my LinkedIn profile - https://www.linkedin.com/in/anusha-mudaliar-3b177b216/ 
 
 <!---
